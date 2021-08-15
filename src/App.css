@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.editable-input {
+  border: none;
+  background-color: inherit;
+  width: 100%;
+}
+.editable-input:focus {
+  border: none;
+  outline: none;
+}
+
+.MuiTableCell-sizeSmall {
+  padding: 0px 24px 0px 16px !important;
+}
